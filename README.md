@@ -1,1 +1,1 @@
-# Digital_Human_Panasonic
+Run the window.py to get the output
